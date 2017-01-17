@@ -1,0 +1,287 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>信息管理_商务中心_小板凳B2B信息网</title>
+ <script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"3d9fe3436e800a348580550a8a705d16",petok:"bf6f812c3ea13ea484752177f55aecd611e769df-1483497146-1800",zone:"xbdb2b.com",rocket:"a",apps:{}}];document.write('<script type="text/javascript" src="//edge.yunjiasu.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js"><'+'\/script>');}}catch(e){};
+//]]>
+</script>
+<link rel="shortcut icon" href="http://www.xbdb2b.com/favicon.ico"/>
+<link rel="bookmark" href="http://www.xbdb2b.com/favicon.ico"/>
+<link rel="stylesheet" type="text/css" href="http://www.xbdb2b.com/member/image/style.css"/>
+<script type="text/rocketscript">window.onerror= function(){return true;}</script><script type="text/rocketscript" data-rocketsrc="http://www.xbdb2b.com/lang/zh-cn/lang.js"></script>
+<script type="text/rocketscript" data-rocketsrc="http://www.xbdb2b.com/file/script/config.js"></script>
+<script type="text/rocketscript" data-rocketsrc="http://www.xbdb2b.com/file/script/common.js"></script>
+<script type="text/rocketscript" data-rocketsrc="http://www.xbdb2b.com/file/script/admin.js"></script>
+<script type="text/rocketscript" data-rocketsrc="http://www.xbdb2b.com/file/script/member.js"></script>
+</head>
+<body>
+<div id="msgbox" style="display:none;"></div>
+<div class="head">
+<div id="top">
+<span class="f_r">
+<a href="http://www.xbdb2b.com/com/teng3shangna6q/" target="_blank">湖南唯创前沿科技有限公司(teng3shangna6q)</a> | 
+<a href="http://www.xbdb2b.com/member/record.php">资金(0.00)</a> | 
+<a href="http://www.xbdb2b.com/member/credit.php">积分(63)</a> | 
+<a href="http://www.xbdb2b.com/member/edit.php">修改资料</a> | 
+<a href="http://www.xbdb2b.com/member/edit.php?tab=1">修改密码</a> | 
+<a href="http://www.xbdb2b.com/member/logout.php?forward=">退出</a></span>
+<a href="http://www.xbdb2b.com/member/ask.php">客服中心</a> | 
+<a href="http://www.xbdb2b.com/member/grade.php">会员等级</a> | 
+<a href="http://www.xbdb2b.com/">网站首页</a>
+</div>
+<div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td width="195" height="55"><a href="http://www.xbdb2b.com/member/"><img src="http://www.xbdb2b.com/member/image/logo.jpg" title="商务中心首页"/></a></td>
+<td>
+<div class="head_user">
+<strong class="px14" style="color:#555555;">欢迎，康先生 </strong>
+(企业会员 <a href="http://www.xbdb2b.com/member/line.php" title="点击隐身"><span class="f_green">在线</span></a>)
+&nbsp;&nbsp;&nbsp;[ 
+<a href="http://www.xbdb2b.com/member/message.php" class="b">新信件</a>(0) | 
+<a href="http://www.xbdb2b.com/member/" class="b">我的商务室</a>
+]
+</div>
+</td>
+<td class="head_sch">
+<form action="http://www.xbdb2b.com/search.php" id="head_sh" target="_blank" onsubmit="return sh(0);">
+<select id="head_md" name="moduleid">
+<option value="5">信息</option><option value="4">公司</option></select>
+<input type="text" size="30" name="kw" id="head_kw" value="输入关键词" onfocus="if(this.value=='输入关键词')this.value='';" maxlength="10"/><img src="http://www.xbdb2b.com/skin/xbdb2b/image/spacer.gif" id="head_bt" onclick="sh(1);"/>
+</form>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td valign="top" class="side" id="side">
+<div class="side_head" onclick="c(0);"><div><img src="http://www.xbdb2b.com/member/image/arrow_c.gif" width="16" height="16" align="right" alt="" id="I_0"/>信息管理</div></div>
+<div class="side_body" id="D_0">
+<ul>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);"  id="mid_5"><span class="f_r"><a href="http://www.xbdb2b.com/fabu.html" class="m">发布</a></span><a href="http://www.xbdb2b.com/member/my.php?mid=5" class="n">信息管理</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);"  id="mid_5_fenlei"><a href="http://www.xbdb2b.com/member/type.php?item=product" class="n">信息分类</a></li>
+</ul>
+</div>
+<div class="side_head" onclick="c(1);"><div><img src="http://www.xbdb2b.com/member/image/arrow_o.gif" width="16" height="16" align="right" alt="" id="I_1"/>商机管理</div></div>
+<div class="side_body" id="D_1" style="display:none;">
+<ul>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="message"><span class="f_r"><a href="http://www.xbdb2b.com/member/message.php?action=send" class="m">发信</a></span><a href="http://www.xbdb2b.com/member/message.php" class="n">站 内 信</a></li>
+
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="friend"><span class="f_r"><a href="http://www.xbdb2b.com/member/friend.php?action=add" class="m">添加</a></span><a href="http://www.xbdb2b.com/member/friend.php" class="n">我的商友</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="favorite"><span class="f_r"><a href="http://www.xbdb2b.com/member/favorite.php?action=add" class="m">添加</a></span><a href="http://www.xbdb2b.com/member/favorite.php" class="n">商机收藏</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="alert"><span class="f_r"><a href="http://www.xbdb2b.com/member/alert.php?action=add" class="m">添加</a></span><a href="http://www.xbdb2b.com/member/alert.php" class="n">贸易提醒</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="mail"><span class="f_r"><a href="http://www.xbdb2b.com/member/sendmail.php" class="m">电邮</a></span><a href="http://www.xbdb2b.com/member/mail.php" class="n">邮件订阅</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="spread"><span class="f_r"><a href="http://www.xbdb2b.com/member/spread.php?action=add" class="m">购买</a></span><a href="http://www.xbdb2b.com/member/spread.php" class="n">排名推广</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="ad"><span class="f_r"><a href="http://www.xbdb2b.com/member/ad.php?action=add" class="m">购买</a></span><a href="http://www.xbdb2b.com/member/ad.php" class="n">广告预定</a></li>
+</ul>
+</div>
+<div class="side_head" onclick="c(2);"><div><img src="http://www.xbdb2b.com/member/image/arrow_o.gif" width="16" height="16" align="right" alt="" id="I_2"/>交易管理</div></div>
+<div class="side_body" id="D_2" style="display:none;">
+<ul>
+
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="trade"><span class="f_r"><a href="http://www.xbdb2b.com/member/trade.php?action=pay" class="m">付款</a></span><a href="http://www.xbdb2b.com/member/trade.php" class="n">我的订单</a></li>
+
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="record"><a href="http://www.xbdb2b.com/member/record.php" class="n">资金流水</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="charge"><span class="f_r"><a href="http://www.xbdb2b.com/member/charge.php?action=pay" class="m">充值</a></span><a href="http://www.xbdb2b.com/member/charge.php?action=record" class="n">充值记录</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="cash"><span class="f_r"><a href="http://www.xbdb2b.com/member/cash.php" class="m">提现</a></span><a href="http://www.xbdb2b.com/member/cash.php?action=record" class="n">资金提现</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="credit"><span class="f_r"><a href="http://www.xbdb2b.com/member/credit.php?action=buy" class="m">购买</a></span><a href="http://www.xbdb2b.com/member/credit.php" class="n">积分管理</a></li>
+</ul>
+</div>
+<div class="side_head" onclick="c(4);"><div><img src="http://www.xbdb2b.com/member/image/arrow_o.gif" width="16" height="16" align="right" alt="" id="I_4"/>资料管理</div></div>
+<div class="side_body" id="D_4" style="display:none;">
+<ul>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="edit"><span class="f_r"><a href="http://www.xbdb2b.com/member/edit.php?tab=1" class="m">密码</a></span><a href="http://www.xbdb2b.com/member/edit.php" class="n">修改资料</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="address"><span class="f_r"><a href="http://www.xbdb2b.com/member/address.php?action=add" class="m">添加</a></span><a href="http://www.xbdb2b.com/member/address.php" class="n">收货地址</a></li>
+<li class="side_a" onmouseover="v(this.id);" onmouseout="t(this.id);" id="logout"><a href="http://www.xbdb2b.com/member/logout.php?forward=" class="n">退出登录</a></li>
+</ul>
+</div>
+<div id="powered">
+广告位
+</div>
+</td>
+<td class="side_h" onclick="oh(this);" title="点击展开/隐藏侧栏" id="side_oh">&nbsp;</td>
+<td valign="top" class="main" id="main"><div class="menu">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<td class="tab" id="add"><a href="http://www.xbdb2b.com/fabu.html"><span>添加信息</span></a></td>
+<td class="tab_nav">&nbsp;</td>
+<td class="tab" id="s3"><a href="http://www.xbdb2b.com/member/my.php?mid=5"><span>已发布<span class="px10">(11)</span></span></a></td>
+<td class="tab_nav">&nbsp;</td>
+<td class="tab" id="s2"><a href="http://www.xbdb2b.com/member/my.php?mid=5&status=2"><span>审核中<span class="px10">(0)</span></span></a></td>
+<td class="tab_nav">&nbsp;</td>
+<td class="tab" id="s1"><a href="http://www.xbdb2b.com/member/my.php?mid=5&status=1"><span>未通过<span class="px10">(0)</span></span></a></td>
+<td class="tab_nav">&nbsp;</td>
+<td class="tab" id="s4" style="display:none;"><a href="http://www.xbdb2b.com/member/my.php?mid=5&status=4"><span>已过期<span class="px10">(0)</span></span></a></td>
+<td class="tab" id="s0"><a href="http://www.xbdb2b.com/member/my.php?mid=5&status=0"><span>回收站</span></a></td>
+<td class="tab_nav">&nbsp;</td>
+<td class="tab" id="type"><a href="http://www.xbdb2b.com/member/type.php?item=product"><span>信息分类<span class="px10">(0)</span></span></a></td>
+</tr>
+</table>
+</div>
+<div class="tt">
+<form action="http://www.xbdb2b.com/member/my.php">
+<input type="hidden" name="mid" value="5"/>
+<input type="hidden" name="status" value="3"/>
+&nbsp;<input name="catid" id="catid_1" type="hidden" value="0"/><input name="catid3" id="catid3" type="hidden" value=""/><span id="load_category_1"><select onchange="load_category(this.value, 1);set_catid3();" ><option value="0">行业分类</option><option value="1">商务</option><option value="4">生活</option><option value="5">居家</option><option value="6">日用</option><option value="7">工业</option><option value="8">原料</option></select> </span><script type="text/rocketscript">var category_moduleid = new Array;category_moduleid[1]="5";var category_title = new Array;category_title[1]='行业分类';var category_extend = new Array;category_extend[1]='';var category_catid = new Array;category_catid[1]='0';var category_deep = new Array;category_deep[1]='0';</script><script type="text/rocketscript" data-rocketsrc="http://www.xbdb2b.com/file/script/category.js"></script><input type="text" size="30" name="kw" value="" title="关键词"/>&nbsp;
+<select name="mycatid" ><option value="-1" selected=selected>自定义分类</option><option value="0">默认</option></select>&nbsp;
+<input type="submit" value=" 搜 索 " class="btn"/>
+<input type="button" value=" 重 置 " class="btn" onclick="window.location='http://www.xbdb2b.com/member/my.php?mid=5&status=3';"/>
+</form>
+</div>
+<div class="ls">
+<form method="post">
+<table cellpadding="0" cellspacing="0" class="tb">
+<tr>
+<th width="20"><input type="checkbox" onclick="checkall(this.form);"/></th>
+<th>图片</th>
+<th>标题</th>
+<th>行业</th>
+<th width="110">更新时间</th>
+<th width="50">浏览</th>
+<th width="80">管理</th>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1329322"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="定制分离纯化服务哪种最快，国内资深安全的定制分离纯化服务公司"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/tesechuangxin/1329322.html" target="_blank" class="t">定制分离纯化服务哪种最快，国内资深安全的定制分离纯化服务公司</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/tesechuangxin.html" target="_blank">特色创新</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-27 13:40">2017-01-03 08:54</td>
+<td class="f_gray px11">1</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1329322"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1329322" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1330657"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="定制分离纯化服务哪家强，中国海北藏族自治州找唯创科技"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/huoyun/1330657.html" target="_blank" class="t">定制分离纯化服务哪家强，中国海北藏族自治州找唯创科技</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/huoyun.html" target="_blank">货运</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-30 11:29">2017-01-03 08:53</td>
+<td class="f_gray px11">3</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1330657"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1330657" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1331280"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="唯创科技活性成分定制纯化服务哪家好比较,甘肃省中药对照品最信"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/jiadianhuishou/1331280.html" target="_blank" class="t">唯创科技活性成分定制纯化服务哪家好比较,甘肃省中药对照品最信</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/jiadianhuishou.html" target="_blank">家电回收</a></td>
+<td class="f_gray px11" title="添加时间 2017-01-02 11:08">2017-01-03 08:53</td>
+<td class="f_gray px11">1</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1331280"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1331280" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1327262"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="微生物代谢产物分离纯化产品销量步步高升，青海省唯创前沿在哪儿"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/jipiao/1327262.html" target="_blank" class="t">微生物代谢产物分离纯化产品销量步步高升，青海省唯创前沿在哪儿</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/jipiao.html" target="_blank">机票</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-21 19:46">2016-12-25 19:05</td>
+<td class="f_gray px11">4</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1327262"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1327262" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1328319"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="药物杂质的小知识点就选分析测试，丽水市最认可的药物杂质对照品"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/shebeihuishou/1328319.html" target="_blank" class="t">药物杂质的小知识点就选分析测试，丽水市最认可的药物杂质对照品</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/shebeihuishou.html" target="_blank">设备回收</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-24 13:18">2016-12-25 19:04</td>
+<td class="f_gray px11">5</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1328319"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1328319" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1325287"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="唯创科技化学结构解析放心购|活性成分定制纯化服务优惠享不停!"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/wuliu/1325287.html" target="_blank" class="t">唯创科技化学结构解析放心购|活性成分定制纯化服务优惠享不停!</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/wuliu.html" target="_blank">物流</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-16 16:50">2016-12-19 10:28</td>
+<td class="f_gray px11">13</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1325287"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1325287" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1320669"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="定制分离纯化对照药材哪家好独具创新,唯创科技绝对可靠的对照药"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/yingshiduanpian/1320669.html" target="_blank" class="t">定制分离纯化对照药材哪家好独具创新,唯创科技绝对可靠的对照药</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/yingshiduanpian.html" target="_blank">影视短片</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-05 19:34">2016-12-16 09:12</td>
+<td class="f_gray px11">3</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1320669"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1320669" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1321961"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="阿里地区天然产物分离外包服务口碑佳技术服务技术服务正规的天然"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/tuopan/1321961.html" target="_blank" class="t">阿里地区天然产物分离外包服务口碑佳技术服务技术服务正规的天然</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/tuopan.html" target="_blank">托盘</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-08 13:07">2016-12-16 09:11</td>
+<td class="f_gray px11">9</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1321961"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1321961" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1322951"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="最优惠的分离纯化技术服务市场需求大、长沙市、市辖区唯创科技唯"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/chubanwu/1322951.html" target="_blank" class="t">最优惠的分离纯化技术服务市场需求大、长沙市、市辖区唯创科技唯</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/chuban.html" target="_blank">出版物</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-10 15:35">2016-12-16 09:11</td>
+<td class="f_gray px11">7</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1322951"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1322951" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1323446"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="河南省定制分离纯化服务哪个品牌好定制分离纯化服务有哪些定制分"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/baozhuangsheji/1323446.html" target="_blank" class="t">河南省定制分离纯化服务哪个品牌好定制分离纯化服务有哪些定制分</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/baozhuangsheji.html" target="_blank">包装设计</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-12 14:31">2016-12-16 09:11</td>
+<td class="f_gray px11">5</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1323446"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1323446" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+<tr onmouseover="this.className='on';" onmouseout="this.className='';" align="center">
+<td><input type="checkbox" name="itemid[]" value="1323798"/></td>
+<td><a href="javascript:_preview('');"><img src="http://www.xbdb2b.com/skin/xbdb2b/image/nopic50.gif" width="50" class="thumb"/></a></td>
+<td align="left" title="唯创科技为您提供分离纯化，服务100%"><ul><li>&nbsp;<a href="http://www.xbdb2b.com/jianzhan/1323798.html" target="_blank" class="t">唯创科技为您提供分离纯化，服务100%</a></li></ul></td>
+<td><a href="http://www.xbdb2b.com/jianzhan.html" target="_blank">建站</a></td>
+<td class="f_gray px11" title="添加时间 2016-12-13 12:42">2016-12-16 09:11</td>
+<td class="f_gray px11">8</td>
+<td>
+<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=edit&itemid=1323798"><img width="16" height="16" src="image/edit.png" title="修改" alt=""/></a>
+&nbsp;<a href="http://www.xbdb2b.com/member/my.php?mid=5&action=delete&itemid=1323798" onclick="return confirm('确定要删除吗？此操作将不可撤销');"><img width="16" height="16" src="image/delete.png" title="删除" alt=""/></a></td>
+</tr>
+</table>
+</div>
+<div class="btns">
+<span class="f_r"><input type="submit" value=" 删除选中 " class="btn" onclick="if(confirm('确定要删除选中信息吗？')){this.form.action='?mid=5&status=3&action=delete'}else{return false;}"/></span>
+<input type="submit" value=" 刷新选中 " class="btn" onclick="this.form.action='?mid=5&status=3&action=refresh';"/>
+</div>
+</form>
+<div class="pages"></div>
+<script type="text/rocketscript">s('mid_5');m('s3');</script>
+</td>
+</tr>
+</table>
+<script type="text/rocketscript">
+if(document.body.clientHeight-85 > Dd('main').scrollHeight) Dd('main').style.height=(document.body.clientHeight-85)+'px';
+if(get_cookie('m_side') == 11 && Dd('side_oh').className == 'side_h') {Dh('side');Dd('side_oh').className = 'side_s';}
+</script>
+</body>
+</html>

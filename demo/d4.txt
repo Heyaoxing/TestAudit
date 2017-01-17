@@ -1,0 +1,244 @@
+<html><!--
+--><head>
+<title>会员操作平台</title>
+<link rel="stylesheet" type="text/css" href="http://lshou.com/member/images/orange/style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<script language="JavaScript" src="http://lshou.com/images/default/inc.js"></script><script language="JavaScript" src="http://lshou.com/images/default/default.js"></script></head>
+
+<body marginwidth="0" marginheight="0"><div id="body_layer" style="display:none;position:absolute;z-index=9999;filter:alpha(opacity=10);opacity:0.1;left:0;top:0;"></div><div id="body_msg_layer" style="display: none;position:absolute;top:50%;left:50%;z-index=998;"><div style="position:relative;top:-50%;left:-50%;"><table width="291" border="0" cellspacing="0" cellpadding="0" height="115">  <tbody><tr>    <td valign="middle" align="center" height="116" bgcolor="#FFFFFF">       <table width="264" border="0" cellspacing="0" cellpadding="0" height="89">        <tbody><tr>          <td style="border:#32B6CD 1px solid" bgcolor="#F7FBFD">             <table width="100%" border="0" cellspacing="0" cellpadding="0">              <tbody><tr>                 <td align="center" valign="middle"><span style="color:#CC3300;font-size:12px;height:28px;font-weight:bold;" id="layer_msg_content">这是提示信息</span><br>                  <span style="font-size:12px;">                   <a href="javascript:" onclick="close_layer_msg()">关闭提示</a></span></td>              </tr>            </tbody></table>          </td>        </tr>      </tbody></table>    </td>  </tr></tbody></table></div></div>
+<script language="JavaScript" src="http://lshou.com/images/default/jquery-1.2.6.min.js"></script>
+
+<script language="JavaScript">
+<!--
+function get_obj(obj){
+   return document.getElementById(obj);
+}
+document.write('<div class="wrap" id="wrapID">');
+//-->
+</script><div class="wrap" id="wrapID">
+<!----><!--
+--> 
+<style>
+.listshop{
+	height:25px;
+	line-height:25px;
+	overflow:hidden;
+	padding:0 7px 0 7px;
+	clear:both;
+	color:#999;
+}
+.listshop .fl{
+	float:left;
+}
+.listshop .fr{
+	float:right;
+}
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="MainTable">
+  <tbody><tr> 
+    <td width="100%" height="100" valign="top" class="Main"> 
+       
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" id="map_art">
+        <tbody><tr> 
+          <td class="top"><span class="L">我发布的商品信息</span><span class="R"><a href="post_choose.php">发布商品</a></span></td>
+        </tr>
+        <tr> 
+          <td class="middle" valign="top"> 
+<!---->
+			<div class="listshop  t1">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=5603" target="_blank">分离纯化技术服务行业排行找焦作市技术服务，性价比高，服务好</a>() (2017-01-01 15:35:07)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=5603">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=5603">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=5603'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=5603'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=5603" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t2">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=5400" target="_blank">唯创科技药物杂质哪个牌子质量好，顶尖有实力的药物杂质对照品</a>() (2016-12-29 15:48:48)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=5400">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=5400">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=5400'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=5400'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=5400" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t1">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=5261" target="_blank">唯创科技以诚信为本、服务至上为宗旨，争做宝鸡市中药对照品有</a>() (2016-12-27 13:43:02)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=5261">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=5261">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=5261'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=5261'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=5261" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t2">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=5059" target="_blank">安康市技术服务唯创前沿的原因,微生物代谢产物分离纯化服务贴心</a>() (2016-12-25 13:09:30)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(1) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=5059">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=5059">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=5059'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=5059'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=5059" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t1">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=4867" target="_blank">长沙市、市辖区最好的唯创科技服务口碑好</a>() (2016-12-24 11:15:13)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=4867">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=4867">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=4867'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=4867'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=4867" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t2">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=4546" target="_blank">唯创科技唯创科技100%正品保障,低价来袭尽在唯创科技</a>() (2016-12-22 11:25:06)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=4546">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=4546">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=4546'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=4546'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=4546" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t1">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=4504" target="_blank">专业提供唯创前沿经验，真实有效的唯创前沿——唯创科技微生物</a>() (2016-12-21 20:25:22)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=4504">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=4504">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=4504'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=4504'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=4504" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t2">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=4333" target="_blank">技术服务分离纯化哪家好,信赖的湖南唯创天然产物分离纯化/结构</a>() (2016-12-20 21:06:01)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=4333">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=4333">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=4333'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=4333'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=4333" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t1">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=3852" target="_blank">最优惠的中药对照品的服务态度、长沙市、市辖区唯创科技中药对</a>() (2016-12-17 12:57:51)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=3852">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=3852">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=3852'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=3852'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=3852" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+			<div class="listshop  t2">
+            	<div class="fl"><a href="../bencandy.php?city_id=0&amp;fid=1299&amp;id=3694" target="_blank">买药物杂质对照品到唯创科技，优质产品任您挑选，药物杂质，100</a>() (2016-12-16 12:43:42)</div>
+                
+              <div class="fr"> 模型:实物类 栏目:<a href="/shop/list.php?fid=1299" target="_blank"></a> 
+                浏览(0) 评论(0) [<a href="../job.php?job=update&amp;fid=1299&amp;id=3694">刷新</a>] [<a href="../job.php?job=dotop&amp;fid=1299&amp;id=3694">置顶</a>] 
+                
+				
+				[<a href="javascript:" click="1" editcode="<a href='post.php?job=edit&amp;fid=1299&amp;id=3694'>修改内容</a><br><a href='editsort.php?job=edit&amp;fid=1299&amp;id=3694'>修改分类</a>">修改</a>]
+
+				[<a href="post.php?action=del&amp;fid=1299&amp;id=3694" onclick="return confirm('你确认要删除吗?不可恢复');">删除</a>] 
+              </div>
+            </div>         
+<!---->
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr> 
+                <td align="center" class="page"></td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="dragTable">
+        <tbody><tr> 
+          <td class="head"> 帮助说明 (你目前的积分有:<b><font color="#FF0000">105</font></b>点)</td>
+        </tr>
+        <tr> 
+          <td class="middle" style="padding:5px;line-height:150%;">1.刷新,即代表更新信息的发布日期为当前日期,刷新后会排在当前栏目的前面.每条信息的刷新时间间隔为<b><font color="#FF0000">1</font></b>小时.<br>
+            2.置顶,即把某条信息在所在栏目固定在前面显示.置顶有效日期为<b><font color="#FF0000">10</font></b>天,收费为<b><font color="#FF0000">10</font></b>积分</td>
+        </tr>
+        <tr> 
+          <td class="foot"> </td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+<!---->
+<div class="FootContainer">
+	      Copyright@<a href="http://lshou.com/" target="_blank">联手网LSHOU.COM本地便捷生活网</a>  all rights reserved <a href="http://www.miibeian.gov.cn" target="_blank">{$webdb[miibeian_gov_cn]}</a>  </div>
+<script language="JavaScript">
+<!--
+document.write('</div>');
+//-->
+</script></div>
+<script language="JavaScript">
+<!--
+function set_class(){
+	obj=document.body.getElementsByTagName("input");
+	for(var i=0;i< obj.length;i++ ){
+		if(obj[i].type=='submit'||obj[i].type=='button'){
+			obj[i].className='submit';
+		}else if (obj[i].type=='radio'||obj[i].type=='checkbox'){
+			obj[i].style.border='0px;';
+		}else if(obj[i].type=='text'){
+			obj[i].className='input_text';
+		}
+	}
+	obj=document.body.getElementsByTagName("textarea");
+	for(var i=0;i< obj.length;i++ ){
+		obj[i].className='input_textarea';
+	}
+	if(document.getElementById("top_menu")!=null)
+	{
+		obj2=get_obj('top_menu').getElementsByTagName("td");
+	
+		for(var i=0;i< obj2.length;i++ ){
+			s=obj2[i].innerHTML;
+			s=s.replace(/\[|\]/g, "");
+			obj2[0].innerHTML=s;	
+		}
+	}
+	
+}
+set_class();
+
+clickEdit.init();
+//-->
+</script>
+
+</body></html>
